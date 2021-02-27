@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/LibbyHeeren/libbyheeren.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
+Testing a link to an [About Me Page](https://libbyheeren.github.io/aboutmetest.md/) using a file in my .io repo
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
