@@ -1,12 +1,12 @@
 name: "Libby Heeren"
 output_dir: "docs"
 navbar:
-  title: "Cars"
+  title: "Bank Marketing Study"
   left:
   - text: "Home"
    href: index.html
   - text: "An Rmarkdown example"
-   href: speed-and-distance.html
+   href: BankMarketStudyFinalCode.html
 output:
   html_document:
  theme: cosmo
