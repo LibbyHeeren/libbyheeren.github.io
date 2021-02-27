@@ -1,0 +1,12 @@
+name: "Libby Heeren"
+output_dir: "docs"
+navbar:
+  title: "Cars"
+  left:
+  - text: "Home"
+   href: index.html
+  - text: "An Rmarkdown example"
+   href: speed-and-distance.html
+output:
+  html_document:
+ theme: cosmo
