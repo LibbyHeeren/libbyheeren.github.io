@@ -1,6 +1,6 @@
 ## Welcome to my portfolio!
 
-[Image](https://photos.smugmug.com/photos/i-7CD4G5z/0/eff5aa9c/O/i-7CD4G5z.jpg)
+![Image](https://photos.smugmug.com/photos/i-7CD4G5z/0/eff5aa9c/O/i-7CD4G5z.jpg)
 
 If you're here, you're probably wondering what kind of data cleaning, modeling, and coding experience I've gained in my masters program. Please take a look at the links below, which will take you to some of the different projects and assignments I've completed. If you have any questions, please feel free to email me at [libbyheeren@gmail.com](mailto:libbyheeren@gmail.com). I'd love to talk to you. Thanks for stopping by!
 
