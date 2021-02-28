@@ -1,4 +1,6 @@
-## Welcome to my portfolio!
+## Welcome to my portfolio
+
+Hello! My name is Libby, and I'm a graduate student working on my Master of Science in Data Analytics at The University of Texas at San Antonio.
 
 ![Image](https://photos.smugmug.com/photos/i-7CD4G5z/1/3026344e/O/i-7CD4G5z.jpg)
 
