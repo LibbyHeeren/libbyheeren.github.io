@@ -1,14 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my portfolio!
 
-You can use the [editor on GitHub](https://github.com/LibbyHeeren/libbyheeren.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[Image](https://photos.smugmug.com/photos/i-7CD4G5z/0/eff5aa9c/O/i-7CD4G5z.jpg)
+
+If you're here, you're probably wondering what kind of data cleaning, modeling, and coding experience I've gained in my masters program. Please take a look at the links below, which will take you to some of the different projects and assignments I've completed. If you have any questions, please feel free to email me at [libbyheeren@gmail.com](mailto:libbyheeren@gmail.com). I'd love to talk to you. Thanks for stopping by!
 
 Testing a link to an [Example Project HTML](https://libbyheeren.github.io/TestProjectPage/) using another github page
 
 Testing a link to an [About Me Page](AboutMe.md) using a markdown doc in my repo
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -29,13 +27,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LibbyHeeren/libbyheeren.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
