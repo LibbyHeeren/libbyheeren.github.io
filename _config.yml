@@ -2,18 +2,3 @@ title: Libby Heeren
 description: A Portfolio of Academic Work
 theme: jekyll-theme-cayman
 author: Libby Heeren
-
-# --- List of links in the navigation bar --- #
-
-navbar-links:
-  About Me: "AboutMe.md"
-  LinkedIn: "https://www.linkedin.com/in/elizabethheeren/"
-  
-  avatar: "https://photos.smugmug.com/photos/i-hKgSTPL/0/642b76a3/O/i-hKgSTPL.jpg"
-
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
-
-social-network-links:
-  email: "someone@example.com"
-  linkedin: elizabethheeren
