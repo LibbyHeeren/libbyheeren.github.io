@@ -10,7 +10,8 @@ If you're here, you're probably wondering what kind of data cleaning, modeling, 
 
 
 
-Testing an image as a link: [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com)
+Testing an image as a link: 
+[![Foo](https://photos.smugmug.com/photos/i-vzSgSmC/0/d611bd84/Th/i-vzSgSmC-Th.jpg)](http://google.com)
 
 Testing a link to an [Example Project HTML](https://libbyheeren.github.io/TestProjectPage/) using another github page
 
