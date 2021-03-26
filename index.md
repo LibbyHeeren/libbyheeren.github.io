@@ -2,7 +2,7 @@
 
 ![Image](https://photos.smugmug.com/photos/i-7CD4G5z/1/3026344e/O/i-7CD4G5z.jpg)
 
-Hello! My name is Libby, and I'm a graduate student working on my Master of Science in Data Analytics at The University of Texas at San Antonio.
+Hello! My name is Elizabeth, but I go by Libby. I'm a graduate student working on my Master of Science in Data Analytics at The University of Texas at San Antonio.
 
 The links below will take you to some of the assignments I've completed. If you have any questions, please feel free to [email me](mailto:libbyheeren@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/elizabethheeren/). I'd love to talk to you. Thanks for stopping by!
 
