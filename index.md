@@ -15,5 +15,7 @@ Testing an image as a link:
 
 Testing a link to an [Example Project HTML](https://libbyheeren.github.io/TestProjectPage/) using another github page
 
+Testing a link to a [Homework Assignment](https://github.com/LibbyHeeren/libbyheeren.github.io/blob/main/Heeren_nuc203_HW0.html) inside this repo
+
 Testing a link to an [About Me Page](AboutMe.md) using a markdown doc in my repo
 
