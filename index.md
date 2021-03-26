@@ -19,5 +19,7 @@ If you're here, you're probably wondering what kind of data cleaning, modeling, 
 
 [Shiny App Example](https://libbyheeren.shinyapps.io/dv_hw3/) which requires [this SAS dataset as input](https://github.com/LibbyHeeren/DataViz3/raw/main/AAPL.sas7bdat)
 
-Testing a link to an [About Me Page](AboutMe.md) using a markdown doc in my repo
+[Risky Restaurants Visualized in Tableau](https://public.tableau.com/profile/libby.heeren#!/vizhome/Heeren_NUC203_Homework4/MapofRiskyRestaurants), hosted on Tableau Public
+
+A little bit more [About Me](AboutMe.md)
 
