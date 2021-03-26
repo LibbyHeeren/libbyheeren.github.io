@@ -17,7 +17,7 @@ If you're here, you're probably wondering what kind of data cleaning, modeling, 
 
 [Interactive Data Visualization using plotly and highcharter in R](https://libbyheeren.github.io/DataViz2/)
 
-[Shiny App Example](https://libbyheeren.shinyapps.io/dv_hw3/) which requires [this SAS dataset as input}(https://github.com/LibbyHeeren/DataViz3/raw/main/AAPL.sas7bdat)
+[Shiny App Example](https://libbyheeren.shinyapps.io/dv_hw3/) which requires [this SAS dataset as input](https://github.com/LibbyHeeren/DataViz3/raw/main/AAPL.sas7bdat)
 
 Testing a link to an [About Me Page](AboutMe.md) using a markdown doc in my repo
 
