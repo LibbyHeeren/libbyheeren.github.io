@@ -8,6 +8,6 @@ In my free time, I enjoy reading, writing, and... personal financial planning. N
 Some of my other hobbies include watercolor painting, video games, animal rescue, and [portrait photography](https://libbyheeren.smugmug.com/Portfolio).  
 
 Here are a few fun little watercolors:
-![](https://libbyheeren.smugmug.com/Client/Product-Photography/Libbys-Illustration-Files/n-5vp9V/i-n6pvGmw/A)
-![](https://libbyheeren.smugmug.com/Client/Product-Photography/Libbys-Illustration-Files/n-5vp9V/i-TkCW5D7/A)
-![](https://libbyheeren.smugmug.com/Client/Product-Photography/Libbys-Illustration-Files/n-5vp9V/i-VcNZdJW/A)
+![](https://photos.smugmug.com/photos/i-LBvWx9f/0/21dd1a97/X2/i-LBvWx9f-X2.jpg | height = 500)
+![](https://photos.smugmug.com/photos/i-TkCW5D7/0/c687c12a/X2/i-TkCW5D7-X2.jpg | height = 500)
+![](https://photos.smugmug.com/photos/i-VcNZdJW/0/57839576/X2/i-VcNZdJW-X2.jpg | height = 500)
