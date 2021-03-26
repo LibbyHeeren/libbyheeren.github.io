@@ -11,9 +11,11 @@ If you're here, you're probably wondering what kind of data cleaning, modeling, 
 
 
 
-[Data Manipulation using dplyr in R](https://github.com/LibbyHeeren/DataViz0)
+[Data Manipulation using dplyr in R](https://libbyheeren.github.io/DataViz0/)
 
-[Data Exploration using ggplot2 in R](https://github.com/LibbyHeeren/DataViz1)
+[Data Exploration using ggplot2 in R](https://libbyheeren.github.io/DataViz1/)
+
+[Interactive Data Visualization using plotly and highcharter in R](https://libbyheeren.github.io/DataViz2/)
 
 
 
