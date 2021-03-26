@@ -10,12 +10,12 @@ If you're here, you're probably wondering what kind of data cleaning, modeling, 
 
 
 
-Testing an image as a link: 
-[![Foo](https://photos.smugmug.com/photos/i-vzSgSmC/0/d611bd84/Th/i-vzSgSmC-Th.jpg)](http://google.com)
 
-Testing a link to an [Example Project HTML](https://libbyheeren.github.io/TestProjectPage/) using another github page
+[Data Manipulation using dplyr in R](https://github.com/LibbyHeeren/DataViz0)
 
-Testing a link to a [Homework Assignment](https://github.com/LibbyHeeren/libbyheeren.github.io/blob/main/Heeren_nuc203_HW0.html) inside this repo
+[Data Exploration using ggplot2 in R](https://github.com/LibbyHeeren/DataViz1)
+
+
 
 Testing a link to an [About Me Page](AboutMe.md) using a markdown doc in my repo
 
