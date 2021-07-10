@@ -21,7 +21,7 @@ And, if you're interested, here's a little bit more [**About Me**](AboutMe.md)
 
 ### Personal Interest Project from my Independent Study in NLP  
 
-[**Study of Gender Power and Submissiveness in The Wheel of Time books, in Python**](https://libbyheeren.github.io/WoT_NLP/) - This is a fun, messy python notebook full of exploration and learning. If you'd like to see my small final report, you can find it [**here!**](https://docs.google.com/document/d/1SY7IzUiPBF0lFPLFD-yiAy58Y5foZ-_jzm80ccsCsQ8/edit?usp=sharing)    
+[**Study of Gender Power and Submissiveness in The Wheel of Time books, in Python**](https://libbyheeren.github.io/WoT_NLP/) - This is a fun, messy python notebook full of exploration and learning. If you'd like to see my small final report, you can find it [**here!**](https://drive.google.com/file/d/1fo3mMlpP2YSdHKxcOrp6ycL0D1i42Nhi/view?usp=sharing)    
 
 
 ### Exploratory Analysis and Visualization Assignments  
