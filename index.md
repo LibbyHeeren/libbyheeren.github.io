@@ -15,6 +15,9 @@ And, if you're interested, here's a little bit more [About Me](AboutMe.md)
 
 [**Predicting Customer Receptivity in R**](https://libbyheeren.github.io/DAapps1/) - Report not included for privacy. This was a group project in which writing tasks were shared.   
 
+[**Simple Neural Network in Python**](https://libbyheeren.github.io/SimpleNN/)  
+
+[**Image Classification using Convolutional Neural Networks in Python**](https://libbyheeren.github.io/CNN/)  
 
 ### Personal Interest Project from my Independent Study in NLP  
 
