@@ -25,7 +25,7 @@ And, if you're interested, here's a little bit more [About Me](AboutMe.md)
 
 [**Data Manipulation using dplyr in R**](https://libbyheeren.github.io/DataViz0/)  
 
-[**Data Cleaning Example in Python**](https://libbyheeren.github.io/BigData2/)  
+[**Data Cleaning and Prediction in Python**](https://libbyheeren.github.io/BigData2/)  
 
 [**Data Exploration using ggplot2 in R**](https://libbyheeren.github.io/DataViz1/)  
 
