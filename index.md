@@ -8,7 +8,7 @@ I'm a graduate of The University of Texas at San Antonio where I earned a Bachel
 
 The links below will take you to some of the assignments I've completed in my masters program. If you have any questions, please feel free to [email me](mailto:libbyheeren@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/elizabethheeren/). I'd love to talk to you. Thanks for stopping by!
 
-And, if you're interested, here's a little bit more [**About Me**](AboutMe.md)  
+And, if you're interested, here's a little bit more [**About Me**](AboutMe.md){target="_blank"}  
 
 
 ### Predictive and Inferential Modeling Assignments  
