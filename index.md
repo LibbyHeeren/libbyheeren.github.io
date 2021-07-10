@@ -1,10 +1,10 @@
-## Welcome to my portfolio  
+## Hi, I'm Libby  
 
-![Image](https://photos.smugmug.com/photos/i-7CD4G5z/1/3026344e/O/i-7CD4G5z.jpg)
+![Image](https://photos.smugmug.com/photos/i-Svx46MH/0/X2/i-Svx46MH-X2.jpg)I'm a graduate of The University of Texas at San Antonio where I earned a Bachelor of Business Administration in Management Science and a Master of Science in Data Analytics. If Management Science sounds like a weird degree, that's because it's a little uncommon. It's a field that focuses on the application of scientific and mathematical modeling to aid organizational decision making. Math, statistics, and programming applied to solving business problems? That's my jam!
 
-Hello! My name is Elizabeth, but I go by Libby. I'm a graduate student working on my Master of Science in Data Analytics at The University of Texas at San Antonio.
 
-The links below will take you to some of the assignments I've completed. If you have any questions, please feel free to [email me](mailto:libbyheeren@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/elizabethheeren/). I'd love to talk to you. Thanks for stopping by!
+
+The links below will take you to some of the assignments I've completed in my masters program. If you have any questions, please feel free to [email me](mailto:libbyheeren@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/elizabethheeren/). I'd love to talk to you. Thanks for stopping by!
 
 And, if you're interested, here's a little bit more [About Me](AboutMe.md)  
 
