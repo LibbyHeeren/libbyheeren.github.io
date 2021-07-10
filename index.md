@@ -30,12 +30,12 @@ And, if you're interested, here's a little bit more [**About Me**](AboutMe.md)
 
 [**Data Cleaning and Prediction in Python**](https://libbyheeren.github.io/BigData2/)  
 
-[**Data Exploration using ggplot2 in R**](https://libbyheeren.github.io/DataViz1/)  
+[**Data Exploration using ggplot2 in R**](https://libbyheeren.github.io/DataViz1/) - This assignment had us recreate visualizations using ggplot2 with no other information except a data set and a picture of the final output.    
 
 [**Interactive Data Visualization using plotly and highcharter in R**](https://libbyheeren.github.io/DataViz2/)  
 
-[**Shiny App Example**](https://libbyheeren.shinyapps.io/dv_hw3/) which requires you to download [**this SAS dataset as input**](https://github.com/LibbyHeeren/DataViz3/raw/main/AAPL.sas7bdat) first    
+[**Shiny App Example**](https://libbyheeren.shinyapps.io/dv_hw3/) which requires you to download [**this SAS dataset as input**](https://github.com/LibbyHeeren/DataViz3/raw/main/AAPL.sas7bdat) first.    
 
-[**Risky Restaurants Visualized in Tableau**](https://public.tableau.com/profile/libby.heeren#!/vizhome/Heeren_NUC203_Homework4/MapofRiskyRestaurants), hosted on Tableau Public. This was a quick assignment that didn't delve into Tableau much at all. My main focus has been visualization in R, mainly using ggplot2. However, I'm pursuing certification in Tableau and hope to explore all it has to offer. I've also had experience using Domo Dashboards, and would be open to certifying in Domo as well!  
+[**Risky Restaurants Visualized in Tableau**](https://public.tableau.com/profile/libby.heeren#!/vizhome/Heeren_NUC203_Homework4/MapofRiskyRestaurants) - hosted on Tableau Public. This was a quick assignment that didn't delve into Tableau much at all. My main focus has been visualization in R, mainly using ggplot2. However, I'm pursuing certification in Tableau and hope to explore all it has to offer. I've also had experience using Domo Dashboards, and would be open to certifying in Domo as well!  
 
 
