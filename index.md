@@ -11,20 +11,27 @@ The links below will take you to some of the assignments I've completed in my ma
 And, if you're interested, here's a little bit more [About Me](AboutMe.md)  
 
 
-#### This portfolio is a work in progress and will be updated with personal projects
+### Predictive and Inferential Modeling Assignments  
 
-[**Data Manipulation using dplyr in R**](https://libbyheeren.github.io/DataViz0/)
+[**Predicting Customer Receptivity in R**](https://libbyheeren.github.io/DAapps1/) - Report not included for privacy. This was a group project in which writing tasks were shared.   
 
-[**Data Cleaning Example in Python**](https://libbyheeren.github.io/BigData2/)
 
-[**Predicting Customer Receptivity in R**](https://libbyheeren.github.io/DAapps1/) - Report not included for privacy, this was a group project  
+### Personal Interest Project from my Independent Study in NLP  
 
-[**Data Exploration using ggplot2 in R**](https://libbyheeren.github.io/DataViz1/)
+[**Study of Gender Power and Submissiveness in The Wheel of Time books, in Python**](https://libbyheeren.github.io/DAapps1/)     
 
-[**Interactive Data Visualization using plotly and highcharter in R**](https://libbyheeren.github.io/DataViz2/)
 
-[**Shiny App Example**](https://libbyheeren.shinyapps.io/dv_hw3/) which requires [**this SAS dataset as input**](https://github.com/LibbyHeeren/DataViz3/raw/main/AAPL.sas7bdat)
+### Exploratory Analysis and Visualization Assignments  
 
-[**Risky Restaurants Visualized in Tableau**](https://public.tableau.com/profile/libby.heeren#!/vizhome/Heeren_NUC203_Homework4/MapofRiskyRestaurants), hosted on Tableau Public
+[**Data Manipulation using dplyr in R**](https://libbyheeren.github.io/DataViz0/)  
+
+[**Data Cleaning Example in Python**](https://libbyheeren.github.io/BigData2/)  
+
+[**Data Exploration using ggplot2 in R**](https://libbyheeren.github.io/DataViz1/)  
+
+[**Interactive Data Visualization using plotly and highcharter in R**](https://libbyheeren.github.io/DataViz2/)  
+
+[**Shiny App Example**](https://libbyheeren.shinyapps.io/dv_hw3/) which requires [**this SAS dataset as input**](https://github.com/LibbyHeeren/DataViz3/raw/main/AAPL.sas7bdat)  
+[**Risky Restaurants Visualized in Tableau**](https://public.tableau.com/profile/libby.heeren#!/vizhome/Heeren_NUC203_Homework4/MapofRiskyRestaurants), hosted on Tableau Public  
 
 
