@@ -8,7 +8,7 @@ I'm a graduate of The University of Texas at San Antonio where I earned a Bachel
 
 The links below will take you to some of the assignments I've completed in my masters program. If you have any questions, please feel free to [email me](mailto:libbyheeren@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/elizabethheeren/). I'd love to talk to you. Thanks for stopping by!
 
-And, if you're interested, here's a little bit more [About Me](AboutMe.md)  
+And, if you're interested, here's a little bit more [**About Me**](AboutMe.md)  
 
 
 ### Predictive and Inferential Modeling Assignments  
@@ -21,7 +21,7 @@ And, if you're interested, here's a little bit more [About Me](AboutMe.md)
 
 ### Personal Interest Project from my Independent Study in NLP  
 
-[**Study of Gender Power and Submissiveness in The Wheel of Time books, in Python**](https://libbyheeren.github.io/WoT_NLP/) - This is a fun, messy python notebook full of exploration and learning. If you'd like to see my small final report, you can find it [**here!**](https://libbyheeren.github.io/WoT_NLP_Report/)    
+[**Study of Gender Power and Submissiveness in The Wheel of Time books, in Python**](https://libbyheeren.github.io/WoT_NLP/) - This is a fun, messy python notebook full of exploration and learning. If you'd like to see my small final report, you can find it [**here!**](https://docs.google.com/document/d/1SY7IzUiPBF0lFPLFD-yiAy58Y5foZ-_jzm80ccsCsQ8/edit?usp=sharing)    
 
 
 ### Exploratory Analysis and Visualization Assignments  
